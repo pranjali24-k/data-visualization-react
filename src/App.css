@@ -1,0 +1,14 @@
+/* In src/App.css */
+.dashboard {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
